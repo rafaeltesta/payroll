@@ -9,6 +9,6 @@ package br.com.unipar.estrutura.calculation;
  *
  * @author Rafael
  */
-public class Benefits {
-  
+public class HealthPlan {
+    
 }
